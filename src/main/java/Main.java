@@ -10,9 +10,17 @@ public class Main {
         post.subscription = true;
 
         post.birthday = new FormDate();
+
         post.birthDay = 13;
         post.birthMonth = 6;
         post.birthYear = 1999;
+
+        {
+            int birthDay = 13;
+            int birthMonth = 6;
+            int birthYear = 1999;
+        }
+
     }
 
 }

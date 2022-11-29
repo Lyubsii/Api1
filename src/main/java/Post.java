@@ -9,4 +9,5 @@ public class Post {
     public int birthDay;
     public int birthMonth;
     public int birthYear;
+
 }
