@@ -11,10 +11,6 @@ public class Main {
 
         post.birthday = new FormDate();
 
-        post.birthDay = 13;
-        post.birthMonth = 6;
-        post.birthYear = 1999;
-
         {
             int birthDay = 13;
             int birthMonth = 6;
